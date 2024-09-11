@@ -21,7 +21,7 @@ title_separator          : "-"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0331.png"
+  avatar           : "AnouarProfile.png"
   name             : "Anouar El Moumane"
   #pronouns         : # example: "she/her"  
   bio              : "I am scientist doing research primarily in statistical physics and soft condensed matter. Currently, I pursueing my docotorate degree at the University of Oxford supervised by Jonathan Doye."
