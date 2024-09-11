@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, University of Oxford, 2027 (expected)
+* B.S. in Mathematics, Heinrich-Heine-Universität Düsseldorf, 2022-2024 (incomplete; dropped out)
+* Thesis: On the positiveness of solutions of the Fokker-Planck-Equation
+* B.S. in Physics, Heinrich-Heine-Universität Düsseldorf, 2022-2024
+* Thesis: Biaxial nematic order in Fundamental Measure Theory
 
 Work experience
 ======
